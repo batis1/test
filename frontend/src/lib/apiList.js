@@ -1,4 +1,4 @@
-export const server = "http://localhost:5000";
+export const server = "https://web-production-345a.up.railway.app";
 
 const apiList = {
   signup: `${server}/user/signup`,
